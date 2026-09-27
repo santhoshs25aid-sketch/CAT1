@@ -1,0 +1,9 @@
+==============================
+   EMPLOYEE PAYROLL REGISTRY  
+==============================
+1. Add Employee
+2. Find Employee By ID
+3. Promote Employee
+4. Terminate Employee
+5. List All Employees
+6. Exit
